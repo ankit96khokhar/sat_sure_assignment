@@ -1,0 +1,12 @@
+{
+  "name": "ping-pong-api",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ping": "^0.4.0",
+    "prom-client": "^14.2.0"
+  },
+  "scripts": {
+    "build": "echo 'No build step required'"
+  }
+}
