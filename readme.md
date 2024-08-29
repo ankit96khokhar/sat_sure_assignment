@@ -1,6 +1,7 @@
 Installation manual steps:
 
 brew install kind
+
 kind create cluster
 kubectl cluster-info --context kind-kind
 
